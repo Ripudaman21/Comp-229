@@ -1,0 +1,14 @@
+{
+  "name": "comp-229",
+  "version": "1.0.0",
+  "description": "COMP229003_eg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ripudaman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
