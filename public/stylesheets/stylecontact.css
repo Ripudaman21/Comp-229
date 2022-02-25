@@ -32,38 +32,40 @@ padding: 20px 10%;
  
   padding: 5px;
 }
-.b1 {
-  width:32%;
+.aa{
   margin-left: 10px;
   margin-top: 10px;
-  padding: 5px;
+ 
+  height: 135px;
+  background-color: rgba(245, 245, 245, 0.795);
+
+}
+.b1 {
+  width:32%;
+  
   height: 125px;
   background-color: rgba(245, 245, 245, 0.795);
-  border: 2px solid white;
+
   float: right;
+  text-align: center;
 }
 .b2 {
   width:32%;
   
-  margin-left: 10px;
-  margin-top: 10px;
   height: 125px;
-  padding: 5px;
-  float: left; 
-  background-color: rgb(240, 240, 240);
-  border: 2px solid white;
+  background-color: rgba(245, 245, 245, 0.795);
+
+  float: right;
+  text-align: center;
 }
 .b3 {
-
-  margin-top: 10px;
   width:32%;
-  height: 125px;
-  margin-left:470px  ;
- 
   
-  padding: 5px;
-  background-color: rgb(240, 240, 240);
-  border: 2px solid white;
+  height: 125px;
+  background-color: rgba(245, 245, 245, 0.795);
+
+  float: right;
+  text-align: center;
 }
 .t{
 
