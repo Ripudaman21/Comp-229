@@ -17,8 +17,14 @@ router.get('/about', function(req, res, next) {
 router.get('/services', function(req, res, next) {
   res.render('services', { title: 'Services' });
 });
-
+function clicker() {
+  alert("Button Working!");
+};
 router.get('/contact', function(req, res, next) {
-  res.render('contact', { title: 'Contact Me' });
+  res.render('contact', { title: 'Services' , x: clicker});
 });
 module.exports = router;
+function foo() {
+  alert("Submit button clicked!");
+  return true;
+}

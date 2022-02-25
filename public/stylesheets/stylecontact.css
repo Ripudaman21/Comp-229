@@ -6,6 +6,12 @@
   padding: 0;
   
 }
+
+.textboxid
+{
+    height:200px;
+    font-size:14pt;
+}
  li, a, button{
    font-family: "Montserrat",sans-serif;
    font-weight: 500;
